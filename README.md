@@ -1,6 +1,6 @@
 # Cruce_Categorías – Reporte Power BI
 
-**Cruce_Categorías** es un prototipo de reporte Power BI desarrollado para demostrar el alcance y el valor estratégico de implementar una administración rigurosa de categorías (*category management*) en el análisis y gestión de inventario de más de 12,000 SKUs, incluyendo productos activos e históricos.
+**Cruce_Categorías** es un prototipo de reporte Power BI con 5 pestañas, desarrollado para demostrar el alcance y el valor estratégico de implementar una administración rigurosa de categorías (*category management*) en el análisis y gestión de inventario de más de 12,000 SKUs, incluyendo productos activos e históricos.
 
 La integración de familias y subfamilias, en colaboración con compradores, gerentes de tienda, especialistas y proveedores, permitió sentar las bases para posteriormente visualizar y segmentar la información de productos de una manera más precisa y accionable. Este reporte facilita la toma de decisiones fundamentadas y ágiles por parte de los equipos de compras, mostrando cómo una correcta categorización transforma los datos en ventajas competitivas.
 
