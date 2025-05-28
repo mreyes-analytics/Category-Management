@@ -65,3 +65,82 @@ El prototipo **Cruce_Categorías** evidencia cómo, a partir de una correcta cla
 > **Nota:**  
 > Los datos contenidos en las imágenes han sido editados y anonimizados por motivos de confidencialidad.
 > Las visualizaciones presentadas son únicamente demostrativas del diseño, estructura y alcance del modelo desarrollado.
+
+## 📧 Contacto
+
+reyes061295@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/marb951206/) | [GitHub](https://github.com/mreyes-analytics)
+
+
+# Cruce_Categorías – Power BI Report
+
+**Cruce_Categorías** is a prototype Power BI report with 5 pages, developed to demonstrate the scope and strategic value of implementing rigorous category management in the analysis and inventory management of over 12,000 SKUs, including both active and historical products.
+
+The integration of families and subfamilies—in collaboration with buyers, store managers, specialists, and suppliers—laid the groundwork to later visualize and segment product information in a more precise and actionable way. This report enables informed and agile decision-making for purchasing teams, illustrating how effective categorization can turn data into a competitive advantage.
+
+---
+
+## 1. venta_sucursal
+
+**Purpose:**  
+Enables visualization of overall sales by branch throughout the year, filtering by family, subfamily, or specific SKU.
+
+- **Top chart:** Total sales by branch (year over year).
+- **Bottom chart:** Historical performance of products that make up each family or subfamily, facilitating the analysis of trends and seasonality.
+
+![Sales by branch](./Cruce_categorías/venta_sucursal.png)
+
+---
+
+## 2. performance_productos
+
+**Purpose:**  
+Displays the performance of each product within a subfamily using line charts, allowing for direct comparisons and visualization of individual or group patterns within the selected category.
+
+![Product performance](./Cruce_categorías/performance_productos.png)
+
+---
+
+## 3. venta_acumulada_cantidadXaño
+
+**Purpose:**  
+Provides a combined analysis of cumulative sales in both value (stacked bar charts in currency) and volume (sales in units shown as lines), segmented by product, family, or subfamily. This view helps to track year-over-year evolution and detect monthly differences.
+
+![Accumulated sales by year](./Cruce_categorías/venta_acumulada_cantidadXaño.png)
+
+---
+
+## 4. participacion_proveedores
+
+**Purpose:**  
+Visualizes the participation of suppliers within a family or subfamily, identifying levels of dependency or concentration on specific suppliers. This view is essential for risk management and commercial negotiations, providing strong arguments for strategic decision-making.
+
+![Supplier participation](./Cruce_categorías/participacion_proveedores.png)
+
+---
+
+## 5. venta_fechas_granular
+
+**Purpose:**  
+Allows for granular sales analysis (by semester, quarter, or month) for any family, subfamily, or product. The goal is to identify variations, trends, or anomalies at a temporal level, improving planning and tactical responses.
+
+![Granular sales by date](./Cruce_categorías/venta_fechas_granular.png)
+
+---
+
+## 🧠 Reflection on Category Management
+
+Category management represents a significant evolution in inventory and purchasing management. By structuring the database with families and subfamilies, the organization can access much deeper and more actionable insights into the performance of each product, supplier, and business segment. This approach not only optimizes analytical capacity but also enables more efficient processes in negotiation, inventory control, opportunity identification, and risk mitigation.
+
+The **Cruce_Categorías** prototype demonstrates how, through correct classification and cross-functional collaboration, business intelligence is enhanced and much more strategic, clear, and granular monitoring of the product portfolio is enabled—empowering decision-making focused on profitability and competitiveness.
+
+---
+
+> **Note:**  
+> The data contained in the images has been edited and anonymized for confidentiality reasons.  
+> The visualizations presented are solely demonstrative of the design, structure, and scope of the developed model.
+
+## 📧 Contact
+
+reyes061295@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/marb951206/) | [GitHub](https://github.com/mreyes-analytics)
